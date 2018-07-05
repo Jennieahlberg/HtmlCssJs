@@ -1,4 +1,4 @@
-Jag har inte användt HTML och CSS så mycket, Javascript har jag aldrig användt.
+Jag har inte använt HTML och CSS så mycket, Javascript har jag aldrig använt.
 
 HTML 3
 CSS 3
